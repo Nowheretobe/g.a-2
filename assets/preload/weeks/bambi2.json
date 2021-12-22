@@ -1,0 +1,30 @@
+{
+	"storyName": "bandu!!!!!111!11!1!!!!111!11!1!!11!1!!!!!1",
+	"hideFreeplay": false,
+	"weekBackground": "applecore",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Applecore",
+			"applecorefreeplay",
+			[
+				0,
+				155,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi"
+}

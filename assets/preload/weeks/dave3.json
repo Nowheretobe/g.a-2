@@ -1,0 +1,30 @@
+{
+	"storyName": "algebra is the worst fucking subject ngl",
+	"hideFreeplay": false,
+	"weekBackground": "math",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Algebra",
+			"algebra",
+			[
+				60,
+				100,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bambi"
+}

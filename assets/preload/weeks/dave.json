@@ -1,0 +1,30 @@
+{
+	"storyName": "OMG IS THAT DAVE FROM THE POPULAR FNF MOD, FNF VS DAVE AND BAMBI!!1",
+	"hideFreeplay": false,
+	"weekBackground": "disabled",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Disability",
+			"dave3d",
+			[
+				0,
+				155,
+				0
+			]
+		]
+	],
+	"weekName": "bambi"
+}

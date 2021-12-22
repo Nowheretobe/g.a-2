@@ -1,0 +1,30 @@
+{
+	"storyName": "you gonna disrupt the 3d world!!!!11!!!!!!1",
+	"hideFreeplay": false,
+	"weekBackground": "disruption",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Disruption",
+			"pissboy",
+			[
+				0,
+				155,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi"
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "basically unfairness but its dave, and then theres bandai...",
+	"hideFreeplay": false,
+	"weekBackground": "unfair",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Wireframe",
+			"dave3d2",
+			[
+				0,
+				155,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi"
+}
