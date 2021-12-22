@@ -1,0 +1,147 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -63,
+        0
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "LEFT",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        120,
+        0
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "RIGHT",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "DOWN",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "danceLeft",
+      "indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "IDLE"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "danceRight",
+      "indices": [
+        9,
+        8,
+        7,
+        6,
+        5,
+        4
+      ],
+      "name": "IDLE"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "UP"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singUP-alt",
+      "indices": [],
+      "name": "ALT-UP"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singLEFT-alt",
+      "indices": [],
+      "name": "ALT-LEFT"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singRIGHT-alt",
+      "indices": [],
+      "name": "ALT-RIGHT"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "singDOWN-alt",
+      "indices": [],
+      "name": "ALT-DOWN"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/bandu_crazy",
+  "position": [
+    50,
+    100
+  ],
+  "healthicon": "bandu",
+  "flip_x": false,
+  "healthbar_colors": [
+    28,
+    255,
+    38
+  ],
+  "camera_position": [
+    130,
+    100
+  ],
+  "sing_duration": 4,
+  "scale": 1.02
+}
