@@ -49,7 +49,8 @@ class CreditsState extends MusicBeatState
 			['Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Noob and Guest gang',		    'nooband',		    'Porter',	 'https://www.youtube.com/channel/UCQBqqTBnOyLf35UoZUd0R0Q',	'0xFFC30085'],
-			['''Poyo'',		    'poyo',		    'he helped me for this port xd',	 'https://youtube.com/channel/UCRB_pRbpYPjrUpnQyPUVG5w],
+			['People who helped']
+			['Poyo',		    'poyo',		    'Helped me for this port xd',	 'https://youtube.com/channel/UCRB_pRbpYPjrUpnQyPUVG5w',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
