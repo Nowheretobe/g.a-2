@@ -8,8 +8,8 @@ import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.addons.display.FlxGridOverlay;
 import flixel.group.FlxGroup.FlxTypedGroup;
-import flixel.math.FlxMath;]
-import flixel.text.FlxText;]
+import flixel.math.FlxMath;
+import flixel.text.FlxText;
 import flixel.util.FlxColor;
 import flixel.tweens.FlxTween;
 #if MODS_ALLOWED
@@ -46,11 +46,10 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
-			['Android Port'],
+			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
-			['Noob and Guest gang',		    'nooband',		    'Porter',	 'https://www.youtube.com/channel/UCQBqqTBnOyLf35UoZUd0R0Q',	'0xFFC30085'],
-			['People who helped']
-			['Poyo',		    'poyo',		    'Helped me for this port xd',	 'https://youtube.com/channel/UCRB_pRbpYPjrUpnQyPUVG5w',	'0xFFC30085'],
+			['Noob and Guest gang',		    'nooband',		    'Porter',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
+			['Poyo',		    'poyo',		    'helped me on this port xd',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	'0xFFFFDD33'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',				'https://twitter.com/river_oaken',		'0xFFC30085'],
